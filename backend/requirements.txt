@@ -1,0 +1,3 @@
+cd ~/receipt-analyzer/backend
+source venv/bin/activate
+pip freeze > requirements.txt
